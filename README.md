@@ -4,7 +4,7 @@
 - Fork this repository. Click on Fork at the top right corner of the main repository.
 - Click on the code button in your forked repository, copy the url and run `git clone <pastetheUrl>` on your terminal.
 - Navigate into the project directory, run `cd Edusearch` to get into the repository.
-- Add the main repository as an upstream, run `git remote add upstream https://github.com/Justfemi/spreadsheet-parser.git`
+- Add the main repository as an upstream, run `git remote add upstream https://github.com/Justfemi/Edusearch.git`
 - Run `git pull upstream develop` to pull the latest changes on the main repository.
 
 ## To contribute:

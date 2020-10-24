@@ -1,0 +1,19 @@
+[{
+    "_id": "001",
+    "name": "University of Lagos",
+    "abbr": "UNILAG",
+    "description": "Freshers: N55,000 for science and N50,000 for non science, while stalite is around N15,000",
+    "date": "2019/2020",
+    "url": "https://unilag.edu.ng/"
+
+  },
+  {
+    "_id": "002",
+    "name": "University of Ibadan",
+    "abbr": "UI",
+    "description": "Freshers: N18,000 to N23,000: Returning Students: N17,000 to N35,000.",
+    "date": "2019/2020",
+    "url": "https://www.ui.edu.ng/"
+
+  }
+]

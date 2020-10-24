@@ -12,17 +12,15 @@
   <!-- Responsive-->
   <link rel="stylesheet" href="styles/css/responsive.css">
   <!-- Scrollbar Custom CSS -->
-  <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-  <!-- Tweaks for older IEs-->
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+  <link rel="stylesheet" href="styles/css/jquery.mCustomScrollbar.min.css">
+
   <title>Edusearch | Your One Stop School Finder</title>
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Russo+One&display=swap"
     rel="stylesheet">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" />
+  <link rel="stylesheet" href="./styles/css/bootstrap.min.css" />
   <link rel="stylesheet" href="./styles/main.css" />
 </head>
 
@@ -75,16 +73,15 @@
             Access the information you need, share and collaborate with friends,
             family, and co-workers.
           </p>
-          <form>
-            <input type="text" placeholder="Enter school name..." />
-            <button>
-              Find
-            </button>
-          </form>
+          <div class="form-group">
+            <input type="text" id="search" placeholder="Enter school name or abbr e.g UI or University of Ibadan"
+              class="form-control form-control-lg" />
+          </div>
         </div>
 
       </div>
     </div>
+    <div class="green containerFlexi" id="match-list"></div>
   </header>
 
 
@@ -243,9 +240,10 @@
           </li>
         </ul>
       </div>
-      <a href="#">&copy;2020<span id="logo1"> Edu</span></span><span id="logo2">search.com</span></a>
+      <a href="#">&copy; 2020<span id="logo1"> Edu</span></span><span id="logo2">search.com</span></a>
     </div>
   </footer>
+  <script src="./js/main.js"></script>
 </body>
 
 </html>

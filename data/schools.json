@@ -11,9 +11,250 @@
     "_id": "002",
     "name": "University of Ibadan",
     "abbr": "UI",
-    "description": "Freshers: N18,000 to N23,000: Returning Students: N17,000 to N35,000.",
+    "description": "Freshers: N18,000 to N23,000, Returning Students: N17,000 to N35,000.",
     "date": "2019/2020",
     "url": "https://www.ui.edu.ng/"
 
+  },
+  {
+    "_id": "003",
+    "name": "Obafemi Awolowo University",
+    "abbr": "OAU",
+    "description": "Freshers: N45,000 to N60,000, Returning Students: N19,000 to N30,000.",
+    "date": "2019/2020",
+    "url": "https://www.oau.edu.ng/"
+
+  },
+  {
+    "_id": "004",
+    "name": "University of Nigeria",
+    "abbr": "UNN",
+    "description": "Freshers: N90,000 to N95,000, Returning Students: N50,000 to N58,000.",
+    "date": "2019/2020",
+    "url": "https://www.unn.edu.ng/"
+
+  },
+  {
+    "_id": "005",
+    "name": "University of Benin",
+    "abbr": "Uniben",
+    "description": "Freshers: N69,900 to N73,400, Returning Students: N41,400 to N45,400.",
+    "date": "2020/2021",
+    "url": "https://www.ui.edu.ng/"
+
+  },
+  {
+    "_id": "006",
+    "name": "University of Ilorin",
+    "abbr": "Unilorin",
+    "description": "Freshers: N18,300 to N40,250, Returning Students: N15,7500 to N40,250.",
+    "date": "2019/2020",
+    "url": "https://www.unilorin.edu.ng/"
+
+  },
+  {
+    "_id": "007",
+    "name": "Addis Ababa University",
+    "abbr": "AAU",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+
+  },
+  {
+    "_id": "008",
+    "name": "Jimma University",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+
+  },
+  {
+    "_id": "009",
+    "name": "Hawassa University",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+  },
+  {
+    "_id": "010",
+    "name": "Arba Minch University",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+
+  },
+  {
+    "_id": "011",
+    "name": "University of Gonder",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+
+  },
+  {
+    "_id": "012",
+    "name": "Rift Valley University",
+    "abbr": "RVU",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+  },
+  {
+    "_id": "013",
+    "name": "Haramaya University",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+
+  },
+  {
+    "_id": "014",
+    "name": "Ahmadu Bello University",
+    "abbr": "ABU",
+    "description": "Fees ranges from N27000 - N41000 for both freshers and stalites.",
+    "date": "2019/2020",
+    "url": "https:.//www.abu.edu.ng/"
+  },
+  {
+    "_id": "015",
+    "name": "Federal University of Technology, Akure",
+    "abbr": "FUTA",
+    "description": "Fees ranges from N13560 - N83940 for both freshers and stalites.",
+    "date": "2019/2020",
+    "url": "https://www.futa.edu.ng/"
+  },
+  {
+    "_id": "016",
+    "name": "Federal University of Technology, Minna",
+    "abbr": "FUTMINNA",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.futminna.edu.ng/"
+  },
+  {
+    "_id": "014",
+    "name": "Nnamdi Azikwe University",
+    "abbr": "UNIZIK",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.unizik.edu.ng/"
+  },
+  {
+    "_id": "017",
+    "name": "Ekiti State University",
+    "abbr": "EKSU",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
+  },
+  {
+    "_id": "018",
+    "name": "Abubakar Tafawa Balewa University",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.atbu.edu.ng/"
+  },
+  {
+    "_id": "019",
+    "name": "Federal University of Technology, Yola",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.futy.edu.ng/"
+  },
+  {
+    "_id": "020",
+    "name": "Micheal Okpara University of Agriculture",
+    "abbr": "MOUAU",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.mouau.edu.ng/"
+  },
+  {
+    "_id": "021",
+    "name": "National Open University of Nigeria",
+    "abbr": "NOUN",
+    "description": "Fees ranges from N36000 - N41000 for both freshers and stalites.",
+    "date": "2019/2020",
+    "url": "https://www.nou.edu.ng/"
+  },
+  {
+    "_id": "022",
+    "name": "University of Abuja",
+    "abbr": "UNIABUJA",
+    "description": "Fees ranges from N39300 - N42300 for both freshers and stalites.",
+    "date": "2019/2020",
+    "url": "https://www.uniabuja.edu.ng/"
+  },
+  {
+    "_id": "023",
+    "name": "University of Agriculture, Abeokuta",
+    "abbr": "UNAAB",
+    "description": "Fees ranges from N18250 - N33000 for both freshers and stalites.",
+    "date": "2019/2020",
+    "url": "https://www.unaab.edu.ng/"
+  },
+  {
+    "_id": "024",
+    "name": "University of Calabar",
+    "abbr": "UNICAL",
+    "description": "Fees ranges from N30500 - N42750 for both freshers and stalites.",
+    "date": "2019/2020",
+    "url": "https://www.unical.edu.ng/"
+  },
+  {
+    "_id": "025",
+    "name": "University of Jos",
+    "abbr": "UNIJOS",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.unijos.edu.ng/"
+  },
+  {
+    "_id": "026",
+    "name": "University of Maiduguri",
+    "abbr": "UNIMAID",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.unimaid.edu.ng/"
+  },
+  {
+    "_id": "027",
+    "name": "University of Port-Harcourt",
+    "abbr": "UNIPORT",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.uniport.edu.ng/"
+  },
+  {
+    "_id": "028",
+    "name": "University of Uyo",
+    "abbr": "UNIUYO",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.uniuyo.edu.ng/"
+  },
+  {
+    "_id": "029",
+    "name": "Usuman Danfodio University",
+    "abbr": "UDUSOK",
+    "description": "",
+    "date": "2019/2020",
+    "url": "https://www.udusok.edu.ng/"
+  },
+  {
+    "_id": "030",
+    "name": "",
+    "abbr": "",
+    "description": "",
+    "date": "2019/2020",
+    "url": ""
   }
 ]

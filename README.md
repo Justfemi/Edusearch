@@ -25,4 +25,4 @@ I'll go through your PR and merge it to the main repository if it satisfies the 
 
 If you have any more questions send a message either on the group chat or a DM, I'll reply ASAP, Thanks!
 
- [Edusearch](https: edusearch.netlify.app/) is live !!!
+ [Edusearch](https://edusearch.netlify.app/) is live !!!

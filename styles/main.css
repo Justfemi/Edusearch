@@ -317,7 +317,6 @@ button {
 /* Footer styling */
 footer {
   background-color: hsl(243, 87%, 12%);
-  color: #fff;
   padding: 50px 0;
 }
 
@@ -327,7 +326,10 @@ footer ul {
 
 footer ul li {
   margin-bottom: 20px;
-  color: #fff;
+}
+
+footer ul li a {
+  color: aliceblue;
 }
 
 footer .social-media {
@@ -358,6 +360,10 @@ footer>div>a:last-child {
   justify-content: center;
   font-size: 1rem;
   font-family: 'Raleway', sans-serif;
+}
+
+.containers a {
+  color: aliceblue;
 }
 
 .green {

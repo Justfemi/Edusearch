@@ -1,5 +1,5 @@
 # Edusearch
 
-A school finder app for Nigeria Universities
+A school finder app for Nigerian Universities
 https://edusearch.netlify.app/
  
